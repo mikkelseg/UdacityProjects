@@ -1,0 +1,9 @@
+My first  project on udacity i.e making a static website on s3 and cloudfront
+
+Below are the links to the website
+
+https://duaimzpsyukp3.cloudfront.net   -cloudfront domain url
+
+http://my-342407341026-bucket.s3-website-us-east-1.amazonaws.com   ----  s3 object url
+
+https://my-342407341026-bucket.s3.amazonaws.com/index.html   ----   s3 endpoint url
